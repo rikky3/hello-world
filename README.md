@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hey everyone, rikky33 here!
