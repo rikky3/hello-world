@@ -1,3 +1,3 @@
 # hello-world
 
-Hey everyone, rikky33 here!
+Hey everyone, rikky3 here!
